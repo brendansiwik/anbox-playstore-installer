@@ -1,3 +1,5 @@
+Fixed URLs so it functions properly with the sourceforge migration
+
 # anbox-playstore-installer
 Install script that automates installation of googles playstore in anbox (an LX container based environment to run Android apps on Linux https://www.anbox.io/ )
 
